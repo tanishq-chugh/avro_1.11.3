@@ -43,7 +43,7 @@
     <commons-text.version>1.11.0</commons-text.version>
     <commons-lang3.version>3.14.0</commons-lang3.version>
     <grpc.version>1.61.1</grpc.version>
-    <hadoop.version>3.3.6</hadoop.version>
+    <hadoop.version>3.4.0</hadoop.version>
     <hamcrest.version>2.2</hamcrest.version>
     <jackson-bom.version>2.16.1</jackson-bom.version>
     <jetty.version>9.4.53.v20231009</jetty.version>
